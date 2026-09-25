@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import re
 
 # 1. URL du site cible et nom de votre fichier JSON
-url = "https://fr.egamersworld.com/blog/match-masters-free-gifts-daily-links-Y3vYXrlYan"
+url = "https://mosttechs.com/match-masters-free-boosters/"
 filename = "scrapmatchmasters.json"
 
 # --- CHARGEMENT DE L'HISTORIQUE PRÉCÉDENT ---
