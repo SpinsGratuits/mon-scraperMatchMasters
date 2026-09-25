@@ -53,7 +53,7 @@ if status_code == 200:
                 continue
                 
             # --- AJOUT : LIMITATION À 20 LIENS MAXIMUM ---
-            if len(json_data) >= 20:
+            if len(json_data) >= 30:
                 break
                 
             parent_text = link.find_parent().get_text(separator=" ").strip() if link.find_parent() else ""
