@@ -37,7 +37,7 @@ if status_code == 200:
     soup = BeautifulSoup(html_text, "html.parser")
     
     now = datetime.now()
-    date_now_str = now.strftime("%d/%m/%Y à %H:%M")
+    date_now_str = now.strftime("%d/%m/%Y @ %H:%M")
     date_du_jour_str = now.strftime("%d/%m/%Y")
     heure_actuelle_str = now.strftime("%H:%M")
     
