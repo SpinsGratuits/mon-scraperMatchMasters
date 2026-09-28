@@ -6,7 +6,7 @@
         "heure": "20:11",
         "recompense": "Boosters gratuits",
         "lienurl": "https://matchmasters.com/portal/masters-market?scrollTo=rewardKeys",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "27/09/2026 @ 20:11",
@@ -15,7 +15,7 @@
         "heure": "20:11",
         "recompense": "Boosters gratuits",
         "lienurl": "https://launch.matchmasters.com/l/p/43YqTwF56JE",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "27/09/2026 @ 16:11",
@@ -168,51 +168,6 @@
         "heure": "14:34",
         "recompense": "Boosters gratuits",
         "lienurl": "https://launch.matchmasters.com/l/p/rUKRv7MuU70",
-        "badge": ""
-    },
-    {
-        "date_scraping": "26/09/2026 @ 14:34",
-        "date_scraping1": "22/09/2026 @ 14:34",
-        "date": "22/09/2026",
-        "heure": "14:34",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/jp9H08egovM",
-        "badge": ""
-    },
-    {
-        "date_scraping": "26/09/2026 @ 14:34",
-        "date_scraping1": "22/09/2026 @ 14:34",
-        "date": "22/09/2026",
-        "heure": "14:34",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/jGofwsIi5fc",
-        "badge": ""
-    },
-    {
-        "date_scraping": "26/09/2026 @ 14:34",
-        "date_scraping1": "22/09/2026 @ 14:34",
-        "date": "22/09/2026",
-        "heure": "14:34",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/xvj9De7qONk",
-        "badge": ""
-    },
-    {
-        "date_scraping": "26/09/2026 @ 14:34",
-        "date_scraping1": "22/09/2026 @ 14:34",
-        "date": "22/09/2026",
-        "heure": "14:34",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/oOmGgpIlrzI",
-        "badge": ""
-    },
-    {
-        "date_scraping": "26/09/2026 @ 14:34",
-        "date_scraping1": "22/09/2026 @ 14:34",
-        "date": "22/09/2026",
-        "heure": "14:34",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/zt0eUmLuLD8",
         "badge": ""
     }
 ]
