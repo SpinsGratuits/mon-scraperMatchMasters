@@ -1,11 +1,20 @@
 [
     {
-        "date_scraping": "03/10/2026 @ 04:14",
-        "date_scraping1": "03/10/2026 @ 04:14",
+        "date_scraping": "03/10/2026 @ 14:57",
+        "date_scraping1": "03/10/2026 @ 14:57",
         "date": "03/10/2026",
-        "heure": "04:14",
+        "heure": "14:57",
         "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/CxMjs-MIj7g",
+        "lienurl": "https://launch.matchmasters.com/l/p/PLDsHD3Kty8",
+        "badge": "NEW"
+    },
+    {
+        "date_scraping": "03/10/2026 @ 14:57",
+        "date_scraping1": "03/10/2026 @ 14:57",
+        "date": "03/10/2026",
+        "heure": "14:57",
+        "recompense": "Boosters gratuits",
+        "lienurl": "https://launch.matchmasters.com/l/p/OCzl1fNOQTc",
         "badge": "NEW"
     },
     {
@@ -14,8 +23,17 @@
         "date": "03/10/2026",
         "heure": "04:14",
         "recompense": "Boosters gratuits",
+        "lienurl": "https://launch.matchmasters.com/l/p/CxMjs-MIj7g",
+        "badge": ""
+    },
+    {
+        "date_scraping": "03/10/2026 @ 04:14",
+        "date_scraping1": "03/10/2026 @ 04:14",
+        "date": "03/10/2026",
+        "heure": "04:14",
+        "recompense": "Boosters gratuits",
         "lienurl": "https://launch.matchmasters.com/l/p/b7eZOV50WWc",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "02/10/2026 @ 20:10",
