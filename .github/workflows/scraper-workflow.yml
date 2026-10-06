@@ -1,9 +1,9 @@
-name: Script de Scraping Périodique
+name: Script Scraping Match Masters
 
 on:
   schedule:
-    # Exécution à 08:00 et 20:00 (Heure française)
-    - cron: '0 0,4,8,12,16,20 * * *'
+    # Exécution à la minute 50 toutes les 4 heures (00:50, 04:50, 08:50, etc.)
+    - cron: '50 0,4,8,12,16,20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,13 +19,14 @@ jobs:
       with:
         python-version: '3.10'
 
-    # MODIFICATION ICI : On installe cloudscraper en plus des autres
     - name: Installer les librairies
       run: |
         python -m pip install --upgrade pip
-        pip install beautifulsoup4 cloudscraper
+        pip install beautifulsoup4 cloudscraper firebase-admin
 
-    - name: Lancer le scraper
+    - name: Lancer le scraper Match Masters
+      env:
+        FIREBASE_KEY: ${{ secrets.FIREBASE_KEY }}
       run: python scraper.py
 
     - name: Sauvegarder les modifications dans le dépôt
@@ -33,5 +34,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add scrapmatchmasters.json
-        git commit -m "Mise à jour automatique des données : $(date +'%Y-%m-%d')" || exit 0
+        git commit -m "Mise à jour automatique Match Masters : $(date +'%Y-%m-%d')" || exit 0
         git push
