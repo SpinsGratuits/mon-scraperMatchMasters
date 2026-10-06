@@ -3,7 +3,7 @@ name: Script Scraping Match Masters
 on:
   schedule:
     # Exécution à la minute 50 toutes les 4 heures (00:50, 04:50, 08:50, etc.)
-    - cron: '50 0,4,8,12,16,20 * * *'
+    - cron: '35 0,4,8,12,16,20 * * *'
   workflow_dispatch:
 
 jobs:
