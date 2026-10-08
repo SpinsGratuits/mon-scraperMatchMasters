@@ -105,6 +105,9 @@ if status_code == 200:
                 continue
             if any(p in href.lower() for p in ["twitter.com", "facebook.com", "whatsapp", "pinterest", "reddit.com"]):
                 continue
+			           # 🟢 AJOUT : On ignore les liens contenant "rewardkeys"
+            if "rewardkeys" in href.lower():
+                continue	
                 
             keywords = ["matchmasters", "candivore", "t.co", "bit.ly"]
             if any(key in href.lower() for key in keywords):
