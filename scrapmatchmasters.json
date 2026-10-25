@@ -1,5 +1,14 @@
 [
     {
+        "date_scraping": "25/10/2026 @ 17:06",
+        "date_scraping1": "25/10/2026 @ 17:06",
+        "date": "25/10/2026",
+        "heure": "17:06",
+        "recompense": "Boosters gratuits",
+        "lienurl": "https://launch.matchmasters.com/l/p/ng0Y8c3VCLc",
+        "badge": "NEW"
+    },
+    {
         "date_scraping": "25/10/2026 @ 14:32",
         "date_scraping1": "25/10/2026 @ 14:32",
         "date": "25/10/2026",
@@ -33,7 +42,7 @@
         "heure": "10:04",
         "recompense": "Boosters gratuits",
         "lienurl": "https://matchmasters.com/portal/masters-market",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "24/10/2026 @ 17:32",
