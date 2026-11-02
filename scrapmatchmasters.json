@@ -1,11 +1,29 @@
 [
     {
-        "date_scraping": "02/11/2026 @ 09:04",
-        "date_scraping1": "02/11/2026 @ 09:04",
+        "date_scraping": "02/11/2026 @ 10:04",
+        "date_scraping1": "02/11/2026 @ 10:04",
         "date": "02/11/2026",
-        "heure": "09:04",
+        "heure": "10:04",
         "recompense": "Boosters gratuits",
-        "lienurl": "https://matchmasters.com/portal/masters-market",
+        "lienurl": "https://launch.matchmasters.com/l/p/ZSihereO3gY",
+        "badge": "NEW"
+    },
+    {
+        "date_scraping": "02/11/2026 @ 10:04",
+        "date_scraping1": "02/11/2026 @ 10:04",
+        "date": "02/11/2026",
+        "heure": "10:04",
+        "recompense": "Boosters gratuits",
+        "lienurl": "https://launch.matchmasters.com/l/p/QPEc8QytY0w",
+        "badge": "NEW"
+    },
+    {
+        "date_scraping": "02/11/2026 @ 10:04",
+        "date_scraping1": "02/11/2026 @ 10:04",
+        "date": "02/11/2026",
+        "heure": "10:04",
+        "recompense": "Boosters gratuits",
+        "lienurl": "https://matchmasters.com/?n=special_offer",
         "badge": "NEW"
     },
     {
