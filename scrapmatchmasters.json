@@ -6,7 +6,7 @@
         "heure": "18:04",
         "recompense": "Boosters gratuits",
         "lienurl": "https://launch.matchmasters.com/l/p/Cp2bJnyOXh8",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "12/11/2026 @ 15:04",
@@ -123,42 +123,6 @@
         "heure": "13:04",
         "recompense": "Boosters gratuits",
         "lienurl": "https://matchmasters.com/?n=special_offer",
-        "badge": ""
-    },
-    {
-        "date_scraping": "08/11/2026 @ 17:04",
-        "date_scraping1": "08/11/2026 @ 17:04",
-        "date": "08/11/2026",
-        "heure": "17:04",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/UZ_G240kknM",
-        "badge": ""
-    },
-    {
-        "date_scraping": "08/11/2026 @ 16:04",
-        "date_scraping1": "08/11/2026 @ 16:04",
-        "date": "08/11/2026",
-        "heure": "16:04",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/OEP3KHQCk58",
-        "badge": ""
-    },
-    {
-        "date_scraping": "08/11/2026 @ 16:04",
-        "date_scraping1": "08/11/2026 @ 16:04",
-        "date": "08/11/2026",
-        "heure": "16:04",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/pcKkrLgPsmI",
-        "badge": ""
-    },
-    {
-        "date_scraping": "08/11/2026 @ 11:04",
-        "date_scraping1": "08/11/2026 @ 11:04",
-        "date": "08/11/2026",
-        "heure": "11:04",
-        "recompense": "Boosters gratuits",
-        "lienurl": "https://launch.matchmasters.com/l/p/mt9dokVx3gk",
         "badge": ""
     }
 ]
