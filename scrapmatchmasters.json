@@ -1,12 +1,21 @@
 [
     {
+        "date_scraping": "15/11/2026 @ 17:04",
+        "date_scraping1": "15/11/2026 @ 17:04",
+        "date": "15/11/2026",
+        "heure": "17:04",
+        "recompense": "Boosters gratuits",
+        "lienurl": "https://launch.matchmasters.com/l/p/OKXK7l8VzsY",
+        "badge": "NEW"
+    },
+    {
         "date_scraping": "15/11/2026 @ 11:04",
         "date_scraping1": "15/11/2026 @ 11:04",
         "date": "15/11/2026",
         "heure": "11:04",
         "recompense": "Boosters gratuits",
         "lienurl": "https://launch.matchmasters.com/l/p/gX3kfCq8USE",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "15/11/2026 @ 10:04",
@@ -24,7 +33,7 @@
         "heure": "11:04",
         "recompense": "Boosters gratuits",
         "lienurl": "https://launch.matchmasters.com/l/p/8Z7okQV7-GU",
-        "badge": "NEW"
+        "badge": ""
     },
     {
         "date_scraping": "14/11/2026 @ 16:04",
